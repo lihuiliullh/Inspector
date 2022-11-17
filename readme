@@ -1,0 +1,16 @@
+This is the code for paper "Comparative Reasoning for Knowledge Graph Fact Checking", BigData 2022.
+
+The code for Inspector can be found in  https://drive.google.com/file/d/1tKJq87PuNr9al-mRs2wPSiEkThFcqF3J/view?usp=sharing
+
+
+Please cite our paper if you think it is useful.
+
+
+@inproceedings{Inspector,
+  author    = {Lihui Liu and
+               Houxiang Ji and
+               Jiejun Xu and
+               Hanghang Tong},
+  title     = {Comparative Reasoning for Knowledge Graph Fact Checking},
+  booktitle = {IEEE BigData 2022}
+}
